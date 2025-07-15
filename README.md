@@ -1,4 +1,4 @@
-# Linux 一键安装 Clash （非 Root，个人 User 版本）
+# Linux 一键安装 Clash （非 Root，个人 User 版本，不需要 sudo，环境独立于用户）
 # 感谢原作者的贡献 [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
 ![GitHub License](https://img.shields.io/github/license/nelvko/clash-for-linux-install)
 ![GitHub top language](https://img.shields.io/github/languages/top/nelvko/clash-for-linux-install)
